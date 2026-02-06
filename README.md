@@ -4,6 +4,7 @@ Uma landing page estruturada para servir como um passo a passo prático de como 
 🔗 Link do Projeto (Deploy)
 Clique aqui para acessar o Guia Online
 
+
 📋 Sobre o Projeto
 Este projeto foi desenvolvido para demonstrar habilidades em Front-End e Arquitetura de Informação. Criei uma interface focada em conversão e facilidade de leitura, onde o usuário aprende estratégias reais de vendas.
 
